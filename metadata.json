@@ -1,0 +1,6 @@
+{
+  "name": "Disney Parks",
+  "description": "Universal Disney Theme Parks companion app with multi-resort support, live wait times, interactive maps, dynamic itinerary planner, dining reservations, transit routing, and digital pass wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
